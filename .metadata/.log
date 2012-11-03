@@ -1,0 +1,72 @@
+!SESSION 2012-11-03 22:54:07.785 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.6.0_35
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/saurabh/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/saurabh/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2012-11-03 22:54:25.610
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.ui 2 2 2012-11-03 23:27:48.286
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2012-11-03 23:27:50.292 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.6.0_35
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/saurabh/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/saurabh/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2012-11-03 23:28:03.592
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.ui 2 2 2012-11-03 23:28:55.798
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-11-03 23:30:58.625
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2012-11-03 23:30:58.625
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2012-11-03 23:30:58.625
+!MESSAGE "EGit Plug-in Import Support" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2012-11-03 23:30:58.625
+!MESSAGE "EGit Project Set Support" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2012-11-03 23:30:58.625
+!MESSAGE "Eclipse EGit" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2012-11-03 23:30:58.625
+!MESSAGE "Eclipse EGit - Source" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2012-11-03 23:30:58.625
+!MESSAGE "EGit Mylyn" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2012-11-03 23:30:58.625
+!MESSAGE "Eclipse JGit Command Line Interface" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2012-11-03 23:30:58.626
+!MESSAGE "Eclipse JGit Command Line Interface - Source" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2012-11-03 23:30:58.626
+!MESSAGE "Eclipse JGit" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2012-11-03 23:30:58.626
+!MESSAGE "Eclipse JGit - Source" will be ignored because it is already installed.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-11-03 23:30:58.628
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2012-11-03 23:30:58.628
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2012-11-03 23:30:58.628
+!MESSAGE "EGit Plug-in Import Support" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2012-11-03 23:30:58.628
+!MESSAGE "EGit Project Set Support" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2012-11-03 23:30:58.628
+!MESSAGE "Eclipse EGit" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2012-11-03 23:30:58.629
+!MESSAGE "Eclipse EGit - Source" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2012-11-03 23:30:58.629
+!MESSAGE "EGit Mylyn" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2012-11-03 23:30:58.629
+!MESSAGE "Eclipse JGit Command Line Interface" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2012-11-03 23:30:58.629
+!MESSAGE "Eclipse JGit Command Line Interface - Source" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2012-11-03 23:30:58.629
+!MESSAGE "Eclipse JGit" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2012-11-03 23:30:58.629
+!MESSAGE "Eclipse JGit - Source" will be ignored because it is already installed.

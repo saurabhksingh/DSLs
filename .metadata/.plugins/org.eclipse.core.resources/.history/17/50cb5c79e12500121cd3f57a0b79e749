@@ -1,0 +1,21 @@
+package com.dev.saurabh;
+
+public class Application {
+	
+	public static void main(String [] args)
+	{
+		ScriptEngineManager factory = new ScriptEngineManager();
+		ScriptEngine engine = factory.getEngineByName("groovy");
+		List<?> orders = (List<?>)
+		engine.eval(new InputStreamReader(
+		new BufferedInputStream(
+		new SequenceInputStream(
+		new FileInputStream("ClientOrder.groovy"),
+		new FileInputStream("order.dsl")))));
+		System.out.println(orders.size());
+		for(Object o : orders) {
+		System.out.println(o);
+		}
+	}
+
+}

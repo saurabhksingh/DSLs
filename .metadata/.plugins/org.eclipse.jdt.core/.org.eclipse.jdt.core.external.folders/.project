@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.jdt.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link2</name>
+			<type>2</type>
+			<location>/Users/saurabh/.groovy/greclipse/global_dsld_support</location>
+		</link>
+		<link>
+			<name>.link3</name>
+			<type>2</type>
+			<location>/Users/saurabh/Downloads/Xtext-Eclipse/plugins/org.codehaus.groovy_2.0.4.xx-20120921-2000-e42RELEASE/plugin_dsld_support</location>
+		</link>
+	</linkedResources>
+</projectDescription>

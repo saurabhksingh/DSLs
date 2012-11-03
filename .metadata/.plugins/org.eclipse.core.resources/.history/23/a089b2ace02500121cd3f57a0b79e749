@@ -1,0 +1,7 @@
+package com.dev.saurabh
+
+ExpandoMetaClass.enableGlobally()
+
+class ClientOrder {
+
+}
